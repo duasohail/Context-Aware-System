@@ -72,6 +72,7 @@
         <div class="row no-gutters border brdr space">
             <div class="col-sm-12 col-md-12 col-lg-12 text-center" id="google_translate_element">
                 <h3 class="notranslate heading ">Google Translater</h3><br>
+                <span class="notranslate">for translation select the lanuage and press Enter</span>
                 <textarea class="translate" cols="100" placeholder="Write and Tranbslate it in any language" rows="5" style="color: black;"></textarea>
             </div>
 
